@@ -42,7 +42,7 @@
 <audio src="배경음악.mp3" controls autoplay></audio>
 <a class="btn blue" href="https://map.naver.com/local/siteview.nhn?code=1073764091&_ts=1562172539464" target="_blank">안녕하세요. '나라동식물유전자원'입니다. 반갑습니다^^. 저희 '나라동식물유전자원' 기업은 서울 송파구에 위치한 중소기업으로 농업용품, 씨앗종자, 양액비료 등을 유통시키고 온실공사, 종자도소매, 비료도소매업을 도맡아하고 있습니다.밑에는 저희 나라유전자원에서 싼 단가로 지역 농가에 보급한 씨앗으로 기른 '파프리카'를 각각 농가에서 찍은 영상물을 나라유전자원에서 편집한것입니다.사이트배경음악을 끄고 틀어주세요</a>
 
-<iframe width=80% src="https://www.youtube.com/embed/WgQIPLgDT2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/WgQIPLgDT2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3><font color="red">*여기서 잠깐! '유전자원(genetic resource)'이란?▶생물이 가지고 있는 유전 정보(genetic information held by living things)<br>
 <h4><font color="orange">유전 자원은 생물이 가지고 있는 유전 정보&유전은 부모의 특징이 자손에게 전해지는 것<br>
