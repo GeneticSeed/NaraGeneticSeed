@@ -6,37 +6,64 @@
 <html>
 
 <head>
-<style>
-.btn{text-decoration: none; font-size:1rem; color:white; padding:5px 10px 5px 10px;
-margin:3px; border-radius: 10px; transition:all 0.1s; text-shadow: 0px -1px rgba(0,0,0,0.44);}
-.btn:active{transform:translateY(10px);}
-.btn.blue{background-color:#1f75d9; border-bottom:5px solid #165195;}
-.btn.blue:active{border-bottom:2px solid #165195;}
-</style>
+ <style>
+    .btn{
+      text-decoration: none;
+      font-size:2rem;
+      color:white;
+      padding:10px 20px 10px 20px;
+      margin:20px;
+      display:inline-block;
+      border-radius: 10px;
+      transition:all 0.1s;
+      text-shadow: 0px -2px rgba(0, 0, 0, 0.44);
+      font-family: 'Lobster', cursive;
+    }
+    .btn:active{
+      transform: translateY(3px);
+    }
+    .btn.blue{
+      background-color: #1f75d9;
+      border-bottom:5px solid #165195;
+    }
+    .btn.blue:active{
+      border-bottom:2px solid #165195;
+    }
+    .btn.red{
+      background-color: #ff521e;
+      border-bottom:5px solid #c1370e;
+    }
+    .btn.red:active{
+      border-bottom:2px solid #c1370e;
+    }
+  </style>
 </head>
+
+
 <body>
 <body background="유전자원사이트배경.png"> 
 <audio src="배경음악.mp3" controls autoplay></audio>
-<a class="btn blue">안녕하세요. '나라동식물유전자원'입니다. 반갑습니다^^</a><br>
-<a class="btn blue">저희 '나라동식물유전자원' 기업은 서울 송파구에 위치한 중소기업으로, </a><br>
-<a class="btn blue">농업용품, 씨앗종자, 양액비료 등을 유통시키구요. </a><br>
-<a class="btn blue">온실공사, 종자도소매, 비료도소매업을 도맡아하고 있습니다.</a><br>
-<a class="btn blue">밑에는 저희 나라유전자원에서 싼 단가로 지역 농가에 보급한 씨앗으로 기른 '파프리카'를 각각 농가에서 찍은 영상물을 나라유전자원에서 편집한것입니다^^</a><br>
+<a class="btn blue" href="#blue">안녕하세요. '나라동식물유전자원'입니다. 반갑습니다^^</a><br>
+<a class="btn blue" href="#blue">저희 '나라동식물유전자원' 기업은 서울 송파구에 위치한 중소기업으로, </a><br>
+<a class="btn blue" href="#blue">농업용품, 씨앗종자, 양액비료 등을 유통시키구요. </a><br>
+<a class="btn blue" href="#blue">온실공사, 종자도소매, 비료도소매업을 도맡아하고 있습니다.^^</a><br>
+<a class="btn blue" href="#blue">밑에는 저희 나라유전자원에서 싼 단가로 지역 농가에 보급한 씨앗으로 기른 '파프리카'를 각각 농가에서 찍은 영상물을 나라유전자원에서 편집한것입니다^^</a><br>
+
 <iframe width="600" height="300" src="https://www.youtube.com/embed/WgQIPLgDT2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p style="font-size:9px;">*여기서 잠깐! '유전자원(genetic resource)'이란?▶생물이 가지고 있는 유전 정보(genetic information held by living things)<br>
-<p style="font-size:9px;">유전 자원은 생물이 가지고 있는 유전 정보&유전은 부모의 특징이 자손에게 전해지는 것(씨앗은 매우 중요한 유전 자원 중 하나)<br>
-<p style="font-size:9px;">유전 자원이 감소됨에 따라 유전 자원 확보를 위해서 종자 은행이 설립됨! <br>
-<p style="font-size:9px;">종자 은행?→ 여러 종류의 식물 종자를 수집하여 품종을 영구적으로 보존하여 생물 다양성 유지, 농작물 개량, 신약 개발 등의 생명 공학 소재 제공<br>
+<p style="font-size:20px;" "font-color:red">*여기서 잠깐! '유전자원(genetic resource)'이란?▶생물이 가지고 있는 유전 정보(genetic information held by living things)<br>
+<p style="font-size:20px;" "font-color:orange">유전 자원은 생물이 가지고 있는 유전 정보&유전은 부모의 특징이 자손에게 전해지는 것(씨앗은 매우 중요한 유전 자원 중 하나)<br>
+<p style="font-size:20px;" "font-color:blue">유전 자원이 감소됨에 따라 유전 자원 확보를 위해서 종자 은행이 설립됨! <br>
+<p style="font-size:20px;" "font-color:purple">종자 은행?→ 여러 종류의 식물 종자를 수집하여 품종을 영구적으로 보존하여 생물 다양성 유지, 농작물 개량, 신약 개발 등의 생명 공학 소재 제공<br>
 
-<p style="font-size:9px;">유전 자원과 관계있는 협약으로 생물 다양성 협약(CBD)이 존재→생물 다양성 보존과 유전 자원을 이용하면서 발생하는 이익의 공정하고 공평한 배분을 위한 협약<br>
+<p style="font-size:20px;" "font-color:green">유전 자원과 관계있는 협약으로 생물 다양성 협약(CBD)이 존재→생물 다양성 보존과 유전 자원을 이용하면서 발생하는 이익의 공정하고 공평한 배분을 위한 협약<br>
 </p>
 
 <br><br>
 <p style="font-size:16px;"><b>아래는 국가관리 농업유전자원에 대한 정보를 종합적으로 제공하는 농업유전자원 서비스시스템 주소입니다^^(참고)</b>
 <p style="font-size:11px;"><b>Below is the website of the Agricultural Genetic Resources Service System</b>
 <p style="font-size:9px;">하단의 빨간 버튼을 클릭하세요(click red button below)</p>
-<a class="btn red" href="http://genebank.rda.go.kr/" target="_blank">농업유전자원 서비스시스템 홈페이지(Agricultural Genetic Resources Service System website)</a>
+  <a class="btn red" href="http://genebank.rda.go.kr/" target="_blank">농업유전자원 서비스시스템 홈페이지(Agricultural Genetic Resources Service System website)</a>
 
 <img src="유전자원설명자료.jpg">
 
