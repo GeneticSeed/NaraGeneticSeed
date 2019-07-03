@@ -14,7 +14,6 @@
       display:inline-block;
       border-radius: 10px;
       transition:all 0.1s;
-      text-shadow: 0px -2px rgba(0, 0, 0, 0.44);
       font-family: 'Sunflower';
     }
     .btn:active{
@@ -22,17 +21,17 @@
     }
     .btn.blue{
       background-color: #1f75d9;
-      border-bottom:5px solid #165195;
+      border-bottom:8px solid #165195;
     }
     .btn.blue:active{
-      border-bottom:2px solid #165195;
+      border-bottom:4px solid #165195;
     }
     .btn.red{
       background-color: #ff521e;
-      border-bottom:5px solid #c1370e;
+      border-bottom:8px solid #c1370e;
     }
     .btn.red:active{
-      border-bottom:2px solid #c1370e;
+      border-bottom:4px solid #c1370e;
     }
   </style>
 </head>
@@ -41,7 +40,7 @@
 <body>
 <body background="유전자원사이트배경.png"> 
 <audio src="배경음악.mp3" controls autoplay></audio>
-<a class="btn blue" href="https://map.naver.com/local/siteview.nhn?code=1073764091&_ts=1562172539464" target="_blank">안녕하세요. '나라동식물유전자원'입니다. 반갑습니다^^<br>저희 '나라동식물유전자원' 기업은 서울 송파구에 위치한 중소기업으로,<br>농업용품, 씨앗종자, 양액비료 등을 유통시키구요.<br>온실공사, 종자도소매, 비료도소매업을 도맡아하고 있습니다.<br>밑에는 저희 나라유전자원에서 싼 단가로 지역 농가에 보급한 씨앗으로 기른 '파프리카'를 각각 농가에서 찍은 영상물을 나라유전자원에서 편집한것입니다.<br>사이트배경음악을 끄고 틀어주세요</a>
+<a class="btn blue" href="https://map.naver.com/local/siteview.nhn?code=1073764091&_ts=1562172539464" target="_blank">안녕하세요. '나라동식물유전자원'입니다. 반갑습니다^^. 저희 '나라동식물유전자원' 기업은 서울 송파구에 위치한 중소기업으로 농업용품, 씨앗종자, 양액비료 등을 유통시키고 온실공사, 종자도소매, 비료도소매업을 도맡아하고 있습니다.밑에는 저희 나라유전자원에서 싼 단가로 지역 농가에 보급한 씨앗으로 기른 '파프리카'를 각각 농가에서 찍은 영상물을 나라유전자원에서 편집한것입니다.<br>사이트배경음악을 끄고 틀어주세요</a>
 
 <iframe width="600" height="300" src="https://www.youtube.com/embed/WgQIPLgDT2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
