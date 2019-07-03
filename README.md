@@ -16,7 +16,7 @@
       border-radius: 10px;
       transition:all 0.1s;
       text-shadow: 0px -2px rgba(0, 0, 0, 0.44);
-      font-family: 'Lobster', cursive;
+      font-family: 'Sunflower';
     }
     .btn:active{
       transform: translateY(3px);
