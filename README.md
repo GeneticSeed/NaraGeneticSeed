@@ -44,8 +44,8 @@
 
 <iframe width="600" height="300" src="https://www.youtube.com/embed/WgQIPLgDT2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3><font color="red">*여기서 잠깐! '유전자원(genetic resource)'이란?▶생물이 가지고 있는 유전 정보(genetic information held by living things)<br></h3>
-<h2><font color="orange">유전 자원은 생물이 가지고 있는 유전 정보&유전은 부모의 특징이 자손에게 전해지는 것<br>
+<h3><font color="red">*여기서 잠깐! '유전자원(genetic resource)'이란?▶생물이 가지고 있는 유전 정보(genetic information held by living things)<br>
+<h4><font color="orange">유전 자원은 생물이 가지고 있는 유전 정보&유전은 부모의 특징이 자손에게 전해지는 것<br>
 <font color="pink">씨앗은 매우 중요한 유전 자원 중 하나이므로 유전 자원 확보를 위해서 종자 은행 설립<br>
 <font color="purple">종자 은행?→ 여러 종류의 식물 종자를 수집하여 품종을 영구적으로 보존하여 생물 다양성 유지, 농작물 개량, 신약 개발 등의 생명 공학 소재 제공<br>
 <font color="green">유전 자원과 관계있는 협약으로 생물 다양성 협약(CBD)이 존재→생물 다양성 보존과 유전 자원을 이용하면서 발생하는 이익의 공정하고 공평한 배분을 위한 협약<br>
