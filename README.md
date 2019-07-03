@@ -64,6 +64,6 @@
 <p style="font-size:20px;"><b>아래는 유럽의 생물 다양성 정보 시스템 주소입니다(참고)</b>
 <p style="font-size:16px;"><b>Below is the website of biodiversity information system for europe</b>
 <p style="font-size:14px;">하단의 빨간 버튼을 클릭하세요(click red button below)</p>
-  <a class="btn red" href="https://biodiversity.europa.eu/topics/genetic-resources">유럽의 생물 다양성 정보 시스템 홈페이지<br>(Biodiversity information system for europe website)</a>
+  <a class="btn red" href="https://biodiversity.europa.eu/topics/genetic-resources" target="_blank">유럽의 생물 다양성 정보 시스템 홈페이지<br>(Biodiversity information system for europe website)</a>
 
 <img src="유전자원설명자료.jpg">
